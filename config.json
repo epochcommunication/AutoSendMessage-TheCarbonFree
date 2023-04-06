@@ -1,7 +1,7 @@
 {
     "Config": [
         {
-            "token": env.Process.TOKEN,
+            "token": process.env.TOKEN,
             "channelid": "884797533623308298",
             "message": "We created Discord to be a platform that brings people together over shared experiences and gives everyone a place to belong. Our Community Guidelines ensure everyone can express themselves and find community, but not at the expense of anyone else.",
             "web": "true" 
